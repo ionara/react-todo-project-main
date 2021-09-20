@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ionara/react-todo-project-main/static/css/main.e60b4b65.chunk.css",
+    "main.js": "/ionara/react-todo-project-main/static/js/main.505703ad.chunk.js",
+    "main.js.map": "/ionara/react-todo-project-main/static/js/main.505703ad.chunk.js.map",
+    "runtime-main.js": "/ionara/react-todo-project-main/static/js/runtime-main.7e8215e0.js",
+    "runtime-main.js.map": "/ionara/react-todo-project-main/static/js/runtime-main.7e8215e0.js.map",
+    "static/js/2.43198bfc.chunk.js": "/ionara/react-todo-project-main/static/js/2.43198bfc.chunk.js",
+    "static/js/2.43198bfc.chunk.js.map": "/ionara/react-todo-project-main/static/js/2.43198bfc.chunk.js.map",
+    "index.html": "/ionara/react-todo-project-main/index.html",
+    "static/css/main.e60b4b65.chunk.css.map": "/ionara/react-todo-project-main/static/css/main.e60b4b65.chunk.css.map",
+    "static/js/2.43198bfc.chunk.js.LICENSE.txt": "/ionara/react-todo-project-main/static/js/2.43198bfc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e8215e0.js",
+    "static/js/2.43198bfc.chunk.js",
+    "static/css/main.e60b4b65.chunk.css",
+    "static/js/main.505703ad.chunk.js"
+  ]
+}
